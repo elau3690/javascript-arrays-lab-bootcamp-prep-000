@@ -1,4 +1,7 @@
 const app = "I don't do much."
 
 
-function 
+function removeFirstKitten()
+{
+  var kitt = kittens
+}
